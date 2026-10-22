@@ -34,6 +34,14 @@ Note: This is a practice dataset, not real company sales data.
 - Lowest Monthly Revenue: April 2026 — ₹80,800
 - Top Revenue-Generating Product: Laptop — ₹495,000
 
+## Visualizations
+
+### Monthly Sales Revenue
+![Monthly Revenue Chart](charts/monthly_revenue.png)
+
+### Revenue by Product
+![Revenue by Product Chart](charts/product_revenue.png)
+
 ## Business Insights
 - Laptops generated the highest revenue among the five products.
 - Mice had the highest unit sales, with 57 units sold.
